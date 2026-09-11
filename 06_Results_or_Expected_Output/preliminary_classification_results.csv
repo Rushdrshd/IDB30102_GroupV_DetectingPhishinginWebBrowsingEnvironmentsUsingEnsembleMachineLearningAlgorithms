@@ -1,0 +1,10 @@
+url,url_length,has_https,contains_at_symbol,suspicious_keyword,actual_label,predicted_label
+http://webmail-account-verify-login-alert.tk,44,0,0,1,1,1
+https://www.unikl.edu.my,24,1,0,0,0,0
+http://www.paypal-secure-signin.com-verify.net,46,0,0,1,1,1
+http://192.168.1.10/login/secure/update-account,47,0,0,1,1,1
+https://www.cloudflare.com,26,1,0,0,0,0
+https://www.amazon.com,22,1,0,0,0,0
+https://www.bbc.co.uk,21,1,0,0,0,0
+https://github.com,18,1,0,0,0,0
+http://www.micros0ft-login-verify.com,37,0,0,1,1,1

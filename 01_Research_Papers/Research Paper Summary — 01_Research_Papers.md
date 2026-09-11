@@ -14,4 +14,4 @@
 | **Relevance to Proposed Research** | Directly supports the group's topic — "Detecting Phishing Websites in Web Browsing Environments Using Ensemble Machine Learning Algorithms." Confirms that ensemble/voting-based approaches (combining RF, XGBoost, and MLP) outperform single classifiers for phishing website detection, and provides a benchmark methodology (preprocessing, evaluation metrics, dataset sources) that can be adapted or extended — e.g., by adding feature selection, testing on updated datasets, or validating within a live browsing environment — as an identified research gap for this proposal. |
 
 ---
-*Prepared for IDB30102 Assignment 2 — GitHub Research & Technical Repository (01_Research_Papers/).*
+

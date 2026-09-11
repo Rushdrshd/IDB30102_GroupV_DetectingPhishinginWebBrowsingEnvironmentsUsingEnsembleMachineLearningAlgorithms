@@ -14,4 +14,5 @@
 | **Relevance to Proposed Research** | Highly relevant to "Detecting Phishing Websites in Web Browsing Environments Using Ensemble Machine Learning Algorithms" — it directly builds on ensemble tree-based methods (RF, Gradient Boosting) similar to the group's proposed approach, and demonstrates a real-world deployment path (a browser-facing real-time detection tool) that closely mirrors the "web browsing environment" focus of the group's research. Its identified gaps — no dynamic/content-based features, no zero-day adaptability, no integration into the browsing environment itself — help justify and scope the group's research objectives and evaluation plan. |
 
 ---
-*Prepared for IDB30102 Assignment 2 — GitHub Research & Technical Repository (01_Research_Papers/).*
+
+

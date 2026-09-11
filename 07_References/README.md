@@ -1,6 +1,6 @@
 # 07_References
 
-Full APA 7th-edition references, dataset links, GitHub/open-source repositories, and framework/library references supporting the data collection, preliminary technical components, and evaluation plan (Sections 05 and 06). This list should be merged into the group's single master reference list in the Research Proposal — do not duplicate entries already listed by other members' sections.
+Full APA 7th-edition references, dataset links, GitHub/open-source repositories, and framework/library references supporting the data collection, preliminary technical components, and evaluation plan. This list should be merged into the group's single master reference list in the Research Proposal.
 
 ## Datasets
 
@@ -32,7 +32,3 @@ Full APA 7th-edition references, dataset links, GitHub/open-source repositories,
 
 - Computer Crimes Act 1997 (Malaysia).
 - Personal Data Protection Act 2010 (Malaysia).
-
-## Course Material
-
-- UniKL Malaysian Institute of Information Technology. (2026). *Research Methodology Selection Handbook* (IDB30102, July 2026 ed.) [Course handbook]. Universiti Kuala Lumpur.
